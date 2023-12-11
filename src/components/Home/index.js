@@ -24,21 +24,7 @@ const Home = () => {
     'n',
     'h',
   ]
-  const jobArray = [
-    'w',
-    'e',
-    'b',
-    ' ',
-    'd',
-    'e',
-    'v',
-    'e',
-    'l',
-    'o',
-    'p',
-    'e',
-    'r',
-  ]
+  const jobArray = ['D', 'a', 't', 'a', ' ', 'A', 'n', 'a', 'l', 'y', 's', 't']
 
   return (
     <>
@@ -60,7 +46,8 @@ const Home = () => {
             />
           </h1>
           <h2>
-            Full-stack developer/ MongoDB/ Express/ ReactJS/ NodeJS/ etc...
+            Data analyst / Data visualization / Data modeling / Data mining /
+            Python / SQL / PowerBI etc...
           </h2>
           <Link to="/contact" className="flat-button">
             CONTACT ME
